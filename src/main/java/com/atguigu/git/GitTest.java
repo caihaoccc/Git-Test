@@ -1,0 +1,12 @@
+package com.atguigu.git;
+
+/**
+ * @Description TODO
+ * @Author Cai
+ * @Date 2022/11/6 15:27
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("Hello Git！！！");
+    }
+}
